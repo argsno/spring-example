@@ -12,6 +12,7 @@
     <modules>
         <module>spring-boot-actuator</module>
         <module>spring-boot-commandlinerunner</module>
+        <module>spring-boot-webflux</module>
     </modules>
 
 </project>
